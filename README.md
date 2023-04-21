@@ -4,7 +4,7 @@
 в себе [icon_01](https://icons.getbootstrap.com/icons/arrow-down-left-circle/) (как в примере в последнем видео). При клике на кнопку иконка должна меняться на [icon_02](https://icons.getbootstrap.com/icons/arrow-down-left-circle-fill/). 
 Повторный клик меняет иконку обратно.
 
-### [Решение](../task_1)
+### [Решение](https://github.com/typeofMax/module10_homework/tree/main/task_1)
 
 ----------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 Сверстайте кнопку, клик на которую будет выводить данные 
 о размерах экрана с помощью [alert](https://developer.mozilla.org/ru/docs/Web/API/Window/alert).
 
-### [Решение](../task_2)
+### [Решение](https://github.com/typeofMax/module10_homework/tree/main/task_2)
 
 ----------------------------------------------------------------
 
@@ -35,4 +35,4 @@
 При клике на кнопку «Гео-локация» необходимо отправить данные серверу и в чат вывести ссылку на https://www.openstreetmap.org/ с вашей гео-локацией.
 Сообщение, которое отправит обратно эхо-сервер, не выводить.
 
-### [Решение](../task_3)
+### [Решение](https://github.com/typeofMax/module10_homework/tree/main/task_3)
